@@ -2,4 +2,4 @@
 
 This is my personel page - cv which contains information about my education, experiences and etc.
 
-You can access my Portfolio by clicking <a href="#">here</a>.
+You can access my Portfolio - Cv by clicking <a href="#">here</a>.
